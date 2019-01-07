@@ -1,0 +1,17 @@
+{
+  "name": "graphql-apolloserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Libhongo Langa",
+  "license": "MIT"
+}
